@@ -7,6 +7,6 @@ current pre-built
 ## Usage
 
 ```bash
-brew tap Frostplexx/homebrew-neovim-nightly
+brew tap frostplexx/homebrew-neovim-nightly
 brew install frostplexx/neovim-nightly/neovim-nightly
 ```
